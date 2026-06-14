@@ -1,0 +1,27 @@
+---
+author: Aswath Ashok
+menu:
+  main:
+    name: About
+    weight: 1
+subtitle: A random workday inspiration
+title: About this test website
+---
+
+This is a test website I am setting up using the [blogdown](https://github.com/rstudio/blogdown). If you want to check out the original theme that inspired this template, its at [the paged.js website](https://pagedjs.org).
+It has always been my goal to setup a website and I was inspired by the work of [Tom](https://cfd.university/), in setting up his website and I have gone down the rabbit hole too.
+But I don't have the necessary skill set for building a website. So I count my luck in running into [Yihui Xie](https://pkg.yihui.org/blogdown/) on a random workday [^1]
+
+So, this is in the initial stages, but hopefully with time and my deep diveing into html, rmd and mainly css I guess, this should look better?
+It took me 3 days so far to do this? Lets see how it fares.
+
+You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:
+
+
+<div class="figure">
+<img src="{{< blogdown/postref >}}images/about.JPG" alt="A fancy pie chart." width="672" />
+<p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
+</div>
+
+[^1]: I was doing background on statistics and probability for my PhD but got sidetracked.... All is well that ends well? :)
+
