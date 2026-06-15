@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Guide on A prototype website?</title>
+		<link>/categories/guide/</link>
+		<description>Recent content in Guide on A prototype website?</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="/categories/guide/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Base documentation guide</title>
+				<link>/docs/04-base/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/docs/04-base/</guid>
+				<description>&lt;h1 id=&#34;executive-summary&#34;&gt;Executive summary&lt;/h1&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my website! This page is intended to be kind of a &amp;ldquo;guide&amp;rdquo; for myself primarily. This is more for my sake than yours&amp;hellip;&#xA;I have a tendency to browse through many, many and manyyyy kinds of styles of personal websites and its quite common for people to have their uniqueness.&#xA;I strongly admire that and get gobbled up in their styles. So, my initial attempts mostly tend to look janky since its an agglomeration of many different things.&#xA;So, in order to not get fully lost, I thought having a &amp;ldquo;base&amp;rdquo; for grounding myself. If I tend to go wayward; Oh well, we&amp;rsquo;ll worry about that then OwO.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
