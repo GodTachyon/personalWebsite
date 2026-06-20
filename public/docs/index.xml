@@ -32,5 +32,12 @@
 				<guid>/docs/03-customization/</guid>
 				<description>&lt;p&gt;The more you know, the less real work you will get done. You have been warned.&lt;/p&gt;&#xA;&lt;h2 id=&#34;site-config&#34;&gt;Site config&lt;/h2&gt;&#xA;&lt;p&gt;In your site config file (&lt;code&gt;hugo.yaml&lt;/code&gt; or &lt;code&gt;config.yaml&lt;/code&gt;), you can customize some options such as the top menu or footer, which should be straightforward to understand if you take a look at the &lt;code&gt;exampleSite&lt;/code&gt;&amp;rsquo;s config file.&lt;/p&gt;&#xA;&lt;p&gt;If you want to add a logo to the left of the top navigation bar, you can use the &lt;code&gt;logo&lt;/code&gt; parameter, e.g.,&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>Base documentation guide</title>
+				<link>/docs/04-base/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/docs/04-base/</guid>
+				<description>&lt;h1 id=&#34;executive-summary&#34;&gt;Executive summary&lt;/h1&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my website! This page is intended to be kind of a &amp;ldquo;guide&amp;rdquo; for myself primarily. This is more for my sake than yours&amp;hellip;&#xA;I have a tendency to browse through many, many and manyyyy kinds of styles of personal websites and its quite common for people to have their uniqueness.&#xA;I strongly admire that and get gobbled up in their styles. So, my initial attempts mostly tend to look janky since its an agglomeration of many different things.&#xA;So, in order to not get fully lost, I thought having a &amp;ldquo;base&amp;rdquo; for grounding myself. If I tend to go wayward; Oh well, we&amp;rsquo;ll worry about that then OwO.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

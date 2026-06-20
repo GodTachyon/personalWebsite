@@ -8,8 +8,8 @@ subtitle: A random workday inspiration
 title: About this test website
 ---
 
-This is a test website I am setting up using the [blogdown](https://github.com/rstudio/blogdown). If you want to check out the original theme that inspired this template, its at [the paged.js website](https://pagedjs.org).
-It has always been my goal to setup a website and I was inspired by the work of [Tom](https://cfd.university/), in setting up his website and I have gone down the rabbit hole too.
+This is a test website I am setting up using [blogdown](https://github.com/rstudio/blogdown). If you want to check out the original theme that inspired this template, its at [the paged.js website](https://pagedjs.org).
+It has always been my goal to setup a website and I was inspired by the work of Tom in setting up [his website](https://cfd.university/) and I have gone down the rabbit hole too.
 But I don't have the necessary skill set for building a website. So I count my luck in running into [Yihui Xie](https://pkg.yihui.org/blogdown/) on a random workday [^1]
 
 So, this is in the initial stages, but hopefully with time and my deep diveing into html, rmd and mainly css I guess, this should look better?
@@ -23,5 +23,5 @@ You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:
 <p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
 </div>
 
-[^1]: I was doing background on statistics and probability for my PhD but got sidetracked.... All is well that ends well? :)
+[^1]: I was doing background on [statistics and probability](https://link.springer.com/book/10.1007/978-3-319-64546-9) for my PhD but got sidetracked.... All is well that ends well? :)
 

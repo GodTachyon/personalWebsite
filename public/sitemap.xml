@@ -8,6 +8,8 @@
   </url><url>
     <loc>/docs/03-customization/</loc>
   </url><url>
+    <loc>/docs/04-base/</loc>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
@@ -65,6 +67,8 @@
     <loc>/about/</loc>
   </url><url>
     <loc>/docs/</loc>
+  </url><url>
+    <loc>/categories/guide/</loc>
   </url><url>
     <loc>/tags/hugo/</loc>
   </url><url>

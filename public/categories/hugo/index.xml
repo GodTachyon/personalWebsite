@@ -21,6 +21,13 @@
 				<description>&lt;p&gt;The Hugo Paged theme was inspired by &lt;a href=&#34;https://pagedjs.org&#34;&gt;the paged.js website&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-pagedjs-website&#34;&gt;The paged.js website&lt;/h2&gt;&#xA;&lt;p&gt;The paged.js library is awesome. Its website is also beautiful.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-crop-marks&#34;&gt;The crop marks&lt;/h3&gt;&#xA;&lt;p&gt;I love the crop marks. I couldn&amp;rsquo;t imagine that they were made from three rectangles:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;div class=&amp;quot;crop-h&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- horizontal lines --&amp;gt;&#xA;&amp;lt;div class=&amp;quot;crop-v&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- vertical lines --&amp;gt;&#xA;&amp;lt;div class=&amp;quot;crop-c&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- cover some segments --&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Make their position absolute, and shrink them a little bit:&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Base documentation guide</title>
+				<link>/docs/04-base/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/docs/04-base/</guid>
+				<description>&lt;h1 id=&#34;executive-summary&#34;&gt;Executive summary&lt;/h1&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my website! This page is intended to be kind of a &amp;ldquo;guide&amp;rdquo; for myself primarily. This is more for my sake than yours&amp;hellip;&#xA;I have a tendency to browse through many, many and manyyyy kinds of styles of personal websites and its quite common for people to have their uniqueness.&#xA;I strongly admire that and get gobbled up in their styles. So, my initial attempts mostly tend to look janky since its an agglomeration of many different things.&#xA;So, in order to not get fully lost, I thought having a &amp;ldquo;base&amp;rdquo; for grounding myself. If I tend to go wayward; Oh well, we&amp;rsquo;ll worry about that then OwO.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>A Plain Markdown Post</title>
 				<link>/blog/2016-02-14-hello-markdown/</link>
 				<pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
