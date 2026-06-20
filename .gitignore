@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Generated site output
+/public/
+
+# Hugo resources (processed assets)
+/resources/
+
+# Hugo build lock
+.hugo_build.lock
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store

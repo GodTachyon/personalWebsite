@@ -1,3 +1,4 @@
+~%2FBlogdown%2FsetupWebsite%2F.gitignore="4BBCDF75"
 ~%2FBlogdown%2FsetupWebsite%2Fcontent%2F_index.md="BD02683C"
 ~%2FBlogdown%2FsetupWebsite%2Fcontent%2Fabout.md="736D1B89"
 ~%2FBlogdown%2FsetupWebsite%2Fcontent%2Fblog%2F2015-07-23-lorem-ipsum.md="11CF12A9"
@@ -9,6 +10,7 @@
 ~%2FBlogdown%2FsetupWebsite%2Fcontent%2Fsearch.md="A824BF16"
 ~%2FBlogdown%2FsetupWebsite%2Fhugo.yaml="4C10AB55"
 ~%2FBlogdown%2FsetupWebsite%2Findex.Rmd="F6BDAC8B"
+~%2FBlogdown%2FsetupWebsite%2Fnetlify.toml="FD31D58A"
 ~%2FBlogdown%2FsetupWebsite%2Fpublic%2Fcss%2Fcustom.css="03459AEB"
 ~%2FBlogdown%2FsetupWebsite%2Fpublic%2Fcss%2Ffonts.css="983E3733"
 ~%2FBlogdown%2FsetupWebsite%2Fpublic%2Fcss%2Fstyle.css="1A7CABE9"
