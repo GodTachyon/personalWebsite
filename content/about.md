@@ -19,7 +19,7 @@ You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:
 
 
 <div class="figure">
-<img src="{{< blogdown/postref >}}images/about.JPG" alt="A fancy pie chart." width="672" />
+<img src="/images/about.JPG" alt="A fancy pie chart." width="672" />
 <p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
 </div>
 
