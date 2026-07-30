@@ -1,4 +1,4 @@
-# REMEMBER to restart R after you modify and save this file!
+blog# REMEMBER to restart R after you modify and save this file!
 
 # First, execute the global .Rprofile if it exists. You may configure blogdown
 # options there, too, so they apply to any blogdown projects. Feel free to
@@ -20,4 +20,4 @@ options(
 )
 
 # fix Hugo version
-options(blogdown.hugo.version = "0.163.1")
+options(blogdown.hugo.version = "0.164.0")
