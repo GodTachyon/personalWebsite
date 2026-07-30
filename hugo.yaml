@@ -20,8 +20,8 @@ params:
   description: "A website built through Hugo with the hugo-paged theme."
   logo:
     en:
-      alt: LOGO TEXT FOR NOW
-      img: # a path to the logo
+      alt: Aswath Ashok
+      img: /images/logoWebsite.jpg
   footer: "[Aswath Ashok](https://github.com/GodTachyon) {Year}"
 
 security:

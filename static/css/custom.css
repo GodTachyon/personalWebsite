@@ -1,3 +1,14 @@
+:root {
+  --bg-body: #faf8f5;
+  --bg-block: #f0ece4;
+  --border-color: #d4c5a9;
+  --box-shadow: 5px 5px 5px #e0d8cc;
+}
+
 h1.title::before {
   content: "❉";
+}
+
+a {
+  color: #5b7db1;
 }
