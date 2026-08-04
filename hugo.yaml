@@ -1,6 +1,6 @@
 baseurl: "/"
 locale: "en-US"
-title: "A prototype website?"
+title: "Aswath Ashok personal website"
 theme: "hugo-paged"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
@@ -22,7 +22,7 @@ params:
     en:
       alt: Aswath Ashok
       img: /images/logoWebsite.jpg
-  footer: "[Aswath Ashok](https://github.com/GodTachyon) {Year}"
+  footer: "[Aswath Ashok](https://www.linkedin.com/in/aswathashok/) {Year}"
 
 security:
   allowContent: ['.*']

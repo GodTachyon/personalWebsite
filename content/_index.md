@@ -21,11 +21,13 @@ title: Home
 }
 </style>
 
-<h1 class="title">Hi! This is a test website</h1>
+<h1 class="title">Hi, Welcome to a plain website! OwO</h1>
 
 ## _by_ Aswath Ashok
-### This website is modified from the template of &copy; [Yihui Xie](https://github.com/yihui/hugo-paged)
 
-- CLEAN-CUT
-- PRINT FEEL
-- MINIMAL CSS
+Feel free to navigate around using the options in the top view bar. This website is still similar to the work of Yihui but I am working on slowly changing it.
+
+
+### This website is modified from the template of &copy; [Yihui Xie](https://github.com/yihui/hugo-paged)
+### Also the logo on the top left is the character "Sunraku" from the series &copy; [Shangri-La Frontier](https://anime.shangrilafrontier.com/en/). All credit for that image goes to the creators!
+

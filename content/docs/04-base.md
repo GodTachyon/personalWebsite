@@ -1,15 +1,17 @@
 ---
 author: Aswath Ashok
 categories:
-- Example
-- Hugo
+- Base
+- Review
 - Guide
+tags:
+- Tutorial
 title: Base documentation guide
 weight: 4
 ---
 
 # Executive summary
-
+Have to fill this one out
 
 # Introduction
 Welcome to my website! This page is intended to be kind of a "guide" for myself primarily. This is more for my sake than yours...
@@ -17,7 +19,7 @@ I have a tendency to browse through many, many and manyyyy kinds of styles of pe
 I strongly admire that and get gobbled up in their styles. So, my initial attempts mostly tend to look janky since its an agglomeration of many different things.
 So, in order to not get fully lost, I thought having a "base" for grounding myself. If I tend to go wayward; Oh well, we'll worry about that then OwO.
 
-## Dummy subsection 0.0
+## Coding blocks
 
 Codes in the website have this shadowy background (This shows the options for the four corners lines on the pages)
 ```html
@@ -29,13 +31,15 @@ Codes in the website have this shadowy background (This shows the options for th
 I believe there is language styling as default for html, yaml and css. Have to maybe add one for python and cpp?
 
 ### Dummy subsubsection 0.0.0
+This is a dummy for checking level 3 subsection headings & numbering.
 
 ## Dummy subsection 0.1
+Placeholder for level 2 heading & numbering.
 
 
 ## Blog and/or documentation
 
-This theme supports two types of lists of pages: [blog](/blog/) and [documentation](/docs/).
+This theme supports two types of lists of pages: [blog](/blog/) and [documentation](/docs/). I added a new one called [archive](/content/archive/) which has saved some of the original placeholder guidelines created with this theme originally. With time, it'll probably be phased out or minimsed in terms of usage. No need to add excess bloat.
 
 - A blog list shows the post summaries in the list. You can either define a post summary via the `description` field in the YAML metadata of a post, or let this theme generate an automatic summary from the paragraphs of your post.
 - A documentation list shows the tables of contents of documentation pages. This is similar to the table of contents of a book, so you could use this theme to write a book (or two).
