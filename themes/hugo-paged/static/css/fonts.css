@@ -1,3 +1,4 @@
+/*
 @font-face {
   font-family: 'Linden Hill';
   font-style: normal;
@@ -8,8 +9,22 @@
   font-style: italic;
   src: url('https://cdn.jsdelivr.net/gh/theleagueof/linden-hill/webfonts/LindenHill-Italic-webfont.woff') format('woff');
 }
+*/
+@font-face {
+  font-family: 'AnthropicSans';
+  src: url('./woff2-original/AnthropicSans-Romans.woff2') format('woff2');
+  font-weight: 300 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnthropicSans';
+  src: url('./woff2-original/AnthropicSans-Italics.woff2') format('woff2');
+  font-weight: 300 800;
+  font-style: italic;
+}
 body {
-  font-family: 'Linden Hill', Palatino, serif;
+  font-family: 'AnthropicSans', Palatino, serif;
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
