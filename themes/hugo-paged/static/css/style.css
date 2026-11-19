@@ -14,8 +14,8 @@ body {
   min-height: calc(100vh - 3em);
   background-color: var(--bg-body);
   margin: auto;
-  padding: 1em;
-  line-height: 1.5;
+  padding: 0.9em;
+  line-height: 1.8;
   position: relative;
   display: flex;
   flex-direction: column;
