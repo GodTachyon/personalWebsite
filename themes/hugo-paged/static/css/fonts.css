@@ -25,11 +25,13 @@
 }
 body {
   font-family: 'AnthropicSans', Palatino, serif;
+  font-size:110%;
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
-  font-size: 85%;
+  font-size: 100%;
 }
 .menu, .meta-line, footer {
   font-family: Jost, Optima, Candara, sans-serif;
+  font-size: 100%;
 }
